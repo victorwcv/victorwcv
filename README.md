@@ -10,11 +10,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="pc-guy" width='350px' /></p>
 
 
-- 🌱 I’m currently learning Web Development as Full Stack in MERN stack
+- 🌱 I'm currently learning Web Development through the Full Stack Development with MERN program by MITxPro.
 
 - 📫 How to reach me **victorwccv@gmail.com**
 
-- ⚡ Fun fact :- Videogames🎮 and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Music🎵 and Videogames🎮 are the reasons to live.
 
 <br>
 
