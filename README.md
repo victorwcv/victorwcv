@@ -20,7 +20,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-ccanchi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor ccanchi" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/victorwccv" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="victor ccanchi" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/victor_wcv?igsh=MWdneXoyN2I5Nzh6MQ==" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victor ccanchi" height="30" width="40" /></a>
 </p>
 
 
