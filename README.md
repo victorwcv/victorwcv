@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Victor Ccanchi</h1>
-<h3 align="center"> Web Developer MERN FullStack 🌟</h3>
+<h3 align="center"> Web App Developer / Frontend 🌟</h3>
 
 <p align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="pc-guy" width="350px" />
@@ -8,7 +8,7 @@
 
 ---
 
-- 🌱 I am a professional full stack web developer, currenly focused in frontend with extensive experience in the MERN stack (MongoDB, Express.js, React, Node.js) and TypeScript. Additionally, I hold a professional certification from the prestigious MIT university as a developer. **MIT xPro**.
+- 🌱 I am a professional programmer and web app developer, currenly focused in frontend with extensive experience in the MERN stack (MongoDB, Express.js, React, Node.js) and TypeScript. Additionally, I hold a professional certification from the prestigious MIT university as a developer. **MIT xPro**.
 - My knowledge is rooted in the fundamentals of web development with HTML, CSS, and JavaScript, which are the foundational pillars of this profession. I also have the capability to leverage cutting-edge technologies such as AI to enhance my skills and projects, ensuring they stand out above the rest.
 
 - 📫 Reach me at **victorwccv@gmail.com**
