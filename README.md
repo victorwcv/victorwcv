@@ -33,8 +33,8 @@
   ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue?style=flat&logo=typescript&logoColor=white)
+  ![Vue](https://img.shields.io/badge/Vue%203-3-blue?style=flat&logo=vue.js&logoColor=green)
   ![React](https://img.shields.io/badge/React-18-blue?style=flat&logo=react&logoColor=white)
-  ![Redux](https://img.shields.io/badge/Redux-4-blue?style=flat&logo=redux&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2-green?style=flat&logo=tailwind-css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blue?style=flat&logo=bootstrap&logoColor=white)
 
