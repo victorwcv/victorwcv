@@ -53,7 +53,6 @@
   ![GitHub](https://img.shields.io/badge/GitHub-5-blue?style=flat&logo=github&logoColor=white)
   ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-5-green?style=flat)
   ![Vite](https://img.shields.io/badge/Vite-2.7.2-yellow?style=flat&logo=vite&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-v2.0-black?logo=vercel)
 
   
  
