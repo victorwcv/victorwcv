@@ -8,7 +8,7 @@
 
 ---
 
-- 🌱 I am a professional programmer and web app developer, currenly focused in frontend with React, VueJS using TypeScript. Additionally, I hold a professional certification from the prestigious MIT university as a developer. **MIT xPro**.
+- 🌱 I am a professional programmer and web app developer, currenly focused in frontend with React, VueJS using TypeScript and web components with Lit-3. Additionally, I hold a professional certification from the prestigious MIT university as a developer. **MIT xPro**.
 - My knowledge is rooted in the fundamentals of web development with HTML, CSS, and JavaScript, which are the foundational pillars of this profession. I also have the capability to leverage cutting-edge technologies such as AI to enhance my skills and projects, ensuring they stand out above the rest.
 
 - 📫 Reach me at **victorwccv@gmail.com**
