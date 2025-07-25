@@ -44,9 +44,6 @@
   ![Postman](https://img.shields.io/badge/Postman-v8.0-orange)
   ![GraphQL](https://img.shields.io/badge/GraphQL-v15.0-green)
 
-- Database:  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-5-green?style=flat&logo=mongodb&logoColor=white)
-  ![Strapi](https://img.shields.io/badge/Strapi-v4.0-blue)
 - Otros:  
   ![VS Code](https://img.shields.io/badge/VS_Code-1.61-blue?style=flat&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-2-red?style=flat&logo=git&logoColor=white)
